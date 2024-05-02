@@ -1,6 +1,1 @@
-telebot
-requests
-hashlib
-random
-time
-webbrowser
+telebot requests hashlib random time webbrowser
