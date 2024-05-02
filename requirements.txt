@@ -1,0 +1,6 @@
+telebot
+requests
+hashlib
+random
+time
+webbrowser
