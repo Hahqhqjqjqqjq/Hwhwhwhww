@@ -1,5 +1,5 @@
 import telebot , requests , json ; from telebot import types
-token = input('- 6848848118:AAHi59iKKwPfC8AybBSHxJj7zw2jkpykHyc : ')
+token = input('6848848118:AAHi59iKKwPfC8AybBSHxJj7zw2jkpykHyc')
 bot = telebot.TeleBot(token)#input('- Enter Token : '))
 my_ch = ''#معرف قناتك داخل الاقواس
 @bot.message_handler(commands=['start'])
