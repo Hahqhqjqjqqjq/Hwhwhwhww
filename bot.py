@@ -1,7 +1,7 @@
 import telebot , requests , json ; from telebot import types
-token = input('6848848118:AAHi59iKKwPfC8AybBSHxJj7zw2jkpykHyc')
-bot = telebot.TeleBot(token)#input('- Enter Token : '))
-my_ch = '@F_J_2_F'#معرف قناتك داخل الاقواس
+token = input('- 6848848118:AAHi59iKKwPfC8AybBSHxJj7zw2jkpykHyc : ')
+bot = telebot.TeleBot(6848848118:AAHi59iKKwPfC8AybBSHxJj7zw2jkpykHyc)#input('- Enter Token : '))
+my_ch = '@F_J_1_F'#معرف قناتك داخل الاقواس
 @bot.message_handler(commands=['start'])
 def start(message):
 	id  = message.from_user.id
