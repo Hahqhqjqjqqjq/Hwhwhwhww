@@ -1,5 +1,5 @@
 import telebot,requests
-bot=telebot.TeleBot(input('- 6616243382:AAGjw0a4I_2W4VTm8CXY4nrGnsB2td0_5o0 : '))
+bot=telebot.TeleBot(input('6616243382:AAGjw0a4I_2W4VTm8CXY4nrGnsB2td0_5o0'))
 if bot:
 	print('The bot has been successfully launched ✅\n Go to your bot and send /start')
 	
