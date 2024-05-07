@@ -35,7 +35,7 @@ def all(call):
         video = sent_video_messages[message_id]
         
         bot.delete_message(call.message.chat.id, call.message.message_id)
-        Mn = f"[تم تحميل بواسطة](ttxxxn.t.me)"
+        Mn = f"[تم تحميل بواسطة](F_J_2_F.t.me)"
         bot.send_video(call.message.chat.id,video,caption=Mn,parse_mode="Markdown")
         
 bot.infinity_polling()
