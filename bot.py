@@ -5,10 +5,10 @@ import telegram
 import pytz
 
 # استبدال "TOKEN" بتوكن البوت الخاص بك
-bot = telegram.Bot(token="7122754136:AAE-8mr83R7_O8w0R5bJIxEsYIKE3VlD1FU")
+bot = telegram.Bot(token="6913396293:AAEtkKXUP18voTbG0gl5R7sRrKLy-KN-OmU")
 
 # استبدال "CHANNEL_ID" بمعرف القناة الذي تريد تحديث وصفها
-channel_id = "@UU_Le2"
+channel_id = "@F_J_2_F"
 
 # إضافة النص الثابت هنا
 description = """• كل مايخص المجال موجود هنا 
